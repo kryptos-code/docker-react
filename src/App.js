@@ -9,6 +9,7 @@ function App() {
         <p>
           Welcome to Rehman's page
         </p>
+        <h4><a href='https://www.linkedin.com/in/kryptosshoaib/'>Linkedin's Profile</a></h4>  
         <strong>Basement</strong>
         <a
           className="App-link"
